@@ -5,7 +5,7 @@
 # 维护人:irving1412
 # 欢迎无人机爱好者交流、指正
 
-# UAV flight control program (Four-rotor)
+# UAV flight control (Four-rotor)
 # Configuration: stm32f407VGT6 + mpu6050 + level inverter + sbus receiver + hc05 Bluetooth + five inch through the rack + 1550mha 3s       lithium battery + 2300kv Yinyan motor + Ledi AT10 remote control
 # IDE: Keil+stm32Cube
 # OS : RT-Thread
